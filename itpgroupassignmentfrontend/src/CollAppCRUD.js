@@ -69,9 +69,9 @@ handleShow();
 const handleDelete = (StudentID)=>{
     if(window.confirm("Are you sure you want to delete this student?"))
         {
-    //alert(StudentID);
+    alert(StudentID);
 
-handleShow();
+    //handleShow();
 
     }
 
