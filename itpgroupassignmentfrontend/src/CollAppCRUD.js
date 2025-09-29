@@ -56,6 +56,7 @@ useEffect(()=>{
           <th>homeAddress</th>
           <th>Email</th>
           <th>Phone</th>
+        <td>Actions</td>
         </tr>
       </thead>
         {
@@ -71,6 +72,10 @@ useEffect(()=>{
             <td>{items.homeAddress}</td>
             <td>{items.Email}</td>
             <td>{items.Phone}</td>
+            <td colSpan={2}>
+                <button className="btn btn-primary">Edit</button>
+                <button className="btn btn-danger">Delete</button>
+            </td>
         </tr>)
             })
             :
