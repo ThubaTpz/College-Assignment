@@ -1,98 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\entitties\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\entitties\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\entitties\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\entitties\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\entitties\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addtaskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addtaskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\addtaskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\addadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addlecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addlecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\addlecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\entitties\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\entitties\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\addmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\migrations\\20250919164306_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\migrations\\20250919164306_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\migrations\\20250919164306_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\github repository\\college-assignment\\itpgroupassignmentbackend\\itp sem 2 ass 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|c:\\users\\wonde\\onedrive\\desktop\\itp assignment\\itpgroupassignment-fullstack\\itpgroupassignmentbackend\\itp sem 2 ass 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1370DA15-2C37-4BA2-8C10-50F670D8FEAD}|ITP SEM 2 ASS 1\\ITP SEM 2 ASS 1.csproj|solutionrelative:itp sem 2 ass 1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,40 +102,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "ITP SEM 2 ASS 1\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T19:08:17.477Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\AdminController.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T16:53:27.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Admin.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Admin.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\Entitties\\Admin.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Admin.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Admin.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\Entitties\\Admin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -143,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TaskItemController.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\TaskItemController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\TaskItemController.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Controllers\\TaskItemController.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\TaskItemController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\TaskItemController.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Controllers\\TaskItemController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -155,11 +147,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\StudentController.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -167,11 +159,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "LecturerController.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\LecturerController.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Controllers\\LecturerController.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\LecturerController.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Controllers\\LecturerController.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAADwv1sAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +171,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TaskItem.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\TaskItem.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\Entitties\\TaskItem.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\TaskItem.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\Entitties\\TaskItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -191,11 +183,36 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\appsettings.json",
+              "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\appsettings.json",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\appsettings.json",
+              "RelativeToolTip": "ITP SEM 2 ASS 1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T16:25:05.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ITP SEM 2 ASS 1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:08:17.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ModuleController.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\ModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\ModuleController.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Controllers\\ModuleController.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\ModuleController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\ModuleController.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Controllers\\ModuleController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAowEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -203,11 +220,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Module.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Module.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Module.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\Entitties\\Module.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Module.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Module.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\Entitties\\Module.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +232,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Student.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\Entitties\\Student.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Student.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Student.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\Entitties\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,11 +244,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Course.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\Entitties\\Course.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Course.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Course.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\Entitties\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "addTaskItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addTaskItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addTaskItemDto.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\addTaskItemDto.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addTaskItemDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addTaskItemDto.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\addTaskItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,11 +268,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "addStudentDto.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addStudentDto.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\addStudentDto.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addStudentDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addStudentDto.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\addStudentDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,11 +280,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "addAdminDto.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addAdminDto.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\addAdminDto.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addAdminDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addAdminDto.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\addAdminDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,11 +292,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "addLecturerDto.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addLecturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addLecturerDto.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\addLecturerDto.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addLecturerDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addLecturerDto.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\addLecturerDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -287,11 +304,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "addModuleDto.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addModuleDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addModuleDto.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\addModuleDto.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addModuleDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addModuleDto.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\addModuleDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,11 +316,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "addCourseDto.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addCourseDto.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\addCourseDto.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addCourseDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\addCourseDto.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\addCourseDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,11 +328,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Lecturer.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Lecturer.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\Entitties\\Lecturer.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Entitties\\Lecturer.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\Entitties\\Lecturer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,11 +340,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CourseController.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Controllers\\CourseController.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Controllers\\CourseController.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Controllers\\CourseController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +352,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "20250919164306_initial migration.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Migrations\\20250919164306_initial migration.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Migrations\\20250919164306_initial migration.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Migrations\\20250919164306_initial migration.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Migrations\\20250919164306_initial migration.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Migrations\\20250919164306_initial migration.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Migrations\\20250919164306_initial migration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -347,11 +364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Program.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Program.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Program.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Program.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,27 +376,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "applicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Data\\applicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Data\\applicationDbContext.cs",
               "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\Models\\Data\\applicationDbContext.cs",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Data\\applicationDbContext.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\Models\\Data\\applicationDbContext.cs",
               "RelativeToolTip": "ITP SEM 2 ASS 1\\Models\\Data\\applicationDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T16:07:48.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\appsettings.json",
-              "RelativeDocumentMoniker": "ITP SEM 2 ASS 1\\appsettings.json",
-              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\ITPGroupAssignment-FullStack\\ITPGroupAssignmentBackEnd\\ITP SEM 2 ASS 1\\appsettings.json",
-              "RelativeToolTip": "ITP SEM 2 ASS 1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-19T16:25:05.058Z"
             }
           ]
         }
