@@ -10,7 +10,7 @@ import axios from "axios";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const CollAppCRUD =() =>{
+const StudentCRUD =() =>{
 
     const [show, setShow] = useState(false);
 
@@ -28,24 +28,6 @@ const CollAppCRUD =() =>{
 
     const studentData = [
         {
-            StudentID:'7102171B-B33B-426E-88FE-08DDFB6A3615',
-            Name:'Diarra',
-            Surname:'Diongue',
-            gender:'F',
-            dateOfBirth:'2005-09-24',
-            homeAddress:'VP',
-            Email:'dee@gmail.com',
-            Phone:'0896754532'
-        },{
-            StudentID:'7102171B-B33B-426E-88FE-08DDFB6A3615',
-            Name:'Diarra',
-            Surname:'Diongue',
-            gender:'F',
-            dateOfBirth:'2005-09-24',
-            homeAddress:'VP',
-            Email:'dee@gmail.com',
-            Phone:'0896754532'
-        },{
             StudentID:'7102171B-B33B-426E-88FE-08DDFB6A3615',
             Name:'Diarra',
             Surname:'Diongue',
@@ -97,13 +79,6 @@ const handleSave = () =>
 }
 
 const clear=()=>{
-  //editName('');
-  //editSurname('');
-  //editgender('');
-  //editdateOfBirth('');
-  //edithomeAddress('');
-  //editEmail('');
-  //editPhone('');
   setEditStudentID('');
   setEditName('');
   setEditSurname('');
@@ -116,7 +91,7 @@ const clear=()=>{
 
 const handleEdit = (id)=>{
   handleShow();
-  axios.get('https://localhost:7040/api/Student/${id}')
+  axios.get(`https://localhost:7040/api/Student/${id}`)
   .then((results) => 
       {
           setEditName(results.data.name);
@@ -126,7 +101,7 @@ const handleEdit = (id)=>{
           setEditHomeAddress(results.data.homeAddress);
           setEditEmail(results.data.email);
           setEditPhone(results.data.phoneNumber);
-          setEditStudentID(results.data.studentID);
+          setEditStudentID(results.data.id ?? results.data.Id ?? results.data.studentID);
       })
       .catch((error) => 
         {
@@ -138,7 +113,7 @@ const handleDelete = (id) =>
   {
     if(window.confirm("Are you sure you want to delete this student?") === true)
         {
-          axios.delete(`https://localhost:7040/api/Student/DeleteStudent/${id}`)
+          axios.delete(`https://localhost:7040/api/Student/${id}`)
           .then((result)=>{
             if(result.status === 200 || result.status === 204)
             {
@@ -156,7 +131,7 @@ const handleDelete = (id) =>
 
 
 const handleUpdate = (StudentID) => {
-    const url = "https://localhost:7040/api/Student?Id=6F8A86F1-424C-46BF-477B-08DE04E960DE"+editStudentID
+    const url = `https://localhost:7040/api/Student?Id=${encodeURIComponent(editStudentID)}`
     const data = {
       "name": editName,
       "surname": editSurname,
@@ -171,6 +146,7 @@ const handleUpdate = (StudentID) => {
     .then((results)=>{
       getStudentData()
       clear();
+      handleClose();
       toast.success('Student Updated Successfully!');
     })
     .catch((error)=>{
@@ -261,7 +237,7 @@ const handleUpdate = (StudentID) => {
         
       </tbody>
     </Table>   
-  <Modal show={show} onHide={handleClose} ClassName="wide-modal">
+  <Modal show={show} onHide={handleClose} dialogClassName="wide-modal">
         <Modal.Header closeButton>
           <Modal.Title>Edit Student Details</Modal.Title>
         </Modal.Header>
@@ -303,4 +279,4 @@ const handleUpdate = (StudentID) => {
         </Fragment>)
 }
 
-export default CollAppCRUD;  
+export default StudentCRUD;
