@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\controllers\\taskitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\updatetaskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\updatetaskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\controllers\\modulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\updateadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\updateadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\updatecoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\updatemoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\updatemoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\updatelecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\updatelecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\addcoursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\addadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\addadmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\addtaskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\addtaskitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\addmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\addmoduledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\addlecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\addlecturerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\addadmindto - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\addadmindto - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\models\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\models\\entities\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\migrations\\20251003135905_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\migrations\\20251003135905_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|c:\\users\\wonde\\onedrive\\desktop\\educorecrud-backend\\educorecrud-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{498EBC80-70F8-4854-A04A-B4C33F2775E5}|EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj|solutionrelative:educorecrud-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Program.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:32:05.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskItemController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\TaskItemController.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Controllers\\TaskItemController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\TaskItemController.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Controllers\\TaskItemController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAFUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:50:15.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowEEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:37:33.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateLecturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateLecturerDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\UpdateLecturerDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateLecturerDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\UpdateLecturerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:33:21.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateCourseDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\UpdateCourseDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateCourseDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\UpdateCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:34:36.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\ModuleController.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Controllers\\ModuleController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\ModuleController.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Controllers\\ModuleController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:24:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateTaskItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateTaskItemDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\UpdateTaskItemDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateTaskItemDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\UpdateTaskItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:35:00.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateStudentDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:33:50.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateModuleDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateModuleDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\UpdateModuleDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateModuleDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\UpdateModuleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:34:11.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateAdminDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\UpdateAdminDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\UpdateAdminDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\UpdateAdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:32:57.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:46:06.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\Entities\\Admin.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:06:54.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:06:55.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\LecturerController.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Controllers\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\LecturerController.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Controllers\\LecturerController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:11:01.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddAdminDto - Copy.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddAdminDto - Copy.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\AddAdminDto - Copy.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddAdminDto - Copy.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\AddAdminDto - Copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:29:36.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddTaskItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddTaskItemDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\AddTaskItemDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddTaskItemDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\AddTaskItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:15:30.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddModuleDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddModuleDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\AddModuleDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddModuleDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\AddModuleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:15:02.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddCourseDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddCourseDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\AddCourseDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddCourseDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\AddCourseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:13:59.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddStudentDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\AddStudentDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddStudentDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\AddStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:13:32.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddLecturerDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddLecturerDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\AddLecturerDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddLecturerDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\AddLecturerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:12:59.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddAdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddAdminDto.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\AddAdminDto.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\AddAdminDto.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\AddAdminDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:12:38.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T14:01:27.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251003135905_NewMigration.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Migrations\\20251003135905_NewMigration.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Migrations\\20251003135905_NewMigration.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Migrations\\20251003135905_NewMigration.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Migrations\\20251003135905_NewMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:59:05.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\appsettings.json",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T13:53:28.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\Entities\\TaskItem.cs",
+              "RelativeDocumentMoniker": "EduCoreCRUD-Backend\\Models\\Entities\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\Models\\Entities\\TaskItem.cs",
+              "RelativeToolTip": "EduCoreCRUD-Backend\\Models\\Entities\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:45:22.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

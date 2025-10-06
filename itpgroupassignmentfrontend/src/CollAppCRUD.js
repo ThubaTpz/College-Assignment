@@ -6,6 +6,7 @@ import Modal from 'react-bootstrap/Modal';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import axios from "axios";
 
 const CollAppCRUD =() =>{
 
@@ -59,6 +60,11 @@ const [data, setData] = useState([]);
 useEffect(()=>{
     setData(studentData);
 },[])
+
+const getStudentData =() =>
+{
+  axios=
+}
 
 const handleEdit = (StudentID)=>{
 //alert(StudentID);
