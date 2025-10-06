@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DrUTfQEKh1w=",
+  "dgSpecHash": "4HNrvIv6D2k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wonde\\OneDrive\\Desktop\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj",
+  "projectFilePath": "C:\\Users\\wonde\\OneDrive\\Desktop\\ITP ASSIGNMENT\\GitHub Repository\\College-Assignment\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend\\EduCoreCRUD-Backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wonde\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\wonde\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

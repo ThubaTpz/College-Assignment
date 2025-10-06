@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EduCoreCRUD-Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efd3faaeb41a7c1744bb965be141e7beb488be7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EduCoreCRUD-Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EduCoreCRUD-Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

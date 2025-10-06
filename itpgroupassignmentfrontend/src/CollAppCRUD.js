@@ -7,6 +7,8 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import axios from "axios";
+import { toastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const CollAppCRUD =() =>{
 
@@ -58,12 +60,55 @@ const CollAppCRUD =() =>{
 const [data, setData] = useState([]);
 
 useEffect(()=>{
-    setData(studentData);
+getStudentData();
 },[])
 
 const getStudentData =() =>
 {
-  axios=
+  axios.get('https://localhost:7040/api/Student')
+  .then((results) => 
+    {setData(results.data)})
+  .catch((error) => {
+    console.log(error)})
+  }
+
+
+const handleSave = () =>
+  {
+    const url = 'https://localhost:7040/api/Student'
+    const data = {
+      "name": thuba,
+      "surname": zondii,
+      "gender": Male,
+      "dateOfBirth": "2000-10-06",
+      "homeAddress": PmB,
+      "email": "tpz@gmail.com",
+      "phoneNumber": "0799364980"
+    }
+    axios.post(url, data)
+    then((results)=>{
+      getStudentData()
+      clear();
+      toast.success("Student Added Successfully")
+    })
+}
+
+const clear=()=>{
+  setName('');
+  setSurname('');
+  setGender('');
+  setDateOfBirth('');
+  setHomeAddress('');
+  setEmail('');
+  setPhone('');
+
+  setEditName('');
+  setEditSurname('');
+  setEditGender('');
+  setEditDateOfBirth('');
+  setEditHomeAddress('');
+  setEditEmail('');
+  setEditPhone('');
 }
 
 const handleEdit = (StudentID)=>{
@@ -94,28 +139,36 @@ const handleUpdate = (StudentID) => {
       
       <Row>
         <Col>
-        <input type="text" placeholder="Enter Name" className="form-control" value={editName} onChange={(e)=>setEditName(e.target.value)}/>
+        <input type="text" placeholder="Enter Name" className="form-control" 
+        value={editName} onChange={(e)=>setEditName(e.target.value)}/>
         </Col>
         <Col>
-        <input type="text" placeholder="Enter Surname" className="form-control" value={editSurname}  onChange={(e)=>setEditSurname(e.target.value)}/>
+        <input type="text" placeholder="Enter Surname" className="form-control" 
+        
+        value={editSurname}  onChange={(e)=>setEditSurname(e.target.value)}/>
         </Col>
         <Col>
-        <input type="text" placeholder="Enter Gender" className="form-control" value={editgender} onChange={(e)=>setEditGender(e.target.value)}/>
+        <input type="text" placeholder="Enter Gender" className="form-control" 
+        value={editgender} onChange={(e)=>setEditGender(e.target.value)}/>
         </Col>
         <Col>
-        <input type="date" placeholder="Enter dateOfBirth" className="form-control" value={editdateOfBirth} onChange={(e)=>setEditDateOfBirth(e.target.value)}/>
+        <input type="date" placeholder="Enter dateOfBirth" className="form-control" 
+        value={editdateOfBirth} onChange={(e)=>setEditDateOfBirth(e.target.value)}/>
         </Col>
         <Col>
-        <input type="text" placeholder="Enter homeAddress" className="form-control" value={edithomeAddress} onChange={(e)=>setEditHomeAddress(e.target.value)}/>
+        <input type="text" placeholder="Enter homeAddress" className="form-control" 
+        value={edithomeAddress} onChange={(e)=>setEditHomeAddress(e.target.value)}/>
         </Col>
         <Col>
-        <input type="email" placeholder="Enter Email" className="form-control" value={editEmail} onChange={(e) => setEditEmail(e.target.value)}/>
+        <input type="email" placeholder="Enter Email" className="form-control" 
+        value={editEmail} onChange={(e) => setEditEmail(e.target.value)}/>
         </Col>
         <Col>
-        <input type="text" placeholder="Enter Phone" className="form-control" value={editPhone} onChange={(e) => setEditPhone(e.target.value)}/>
+        <input type="text" placeholder="Enter Phone" className="form-control" 
+        value={editPhone} onChange={(e) => setEditPhone(e.target.value)}/>
         </Col>
         <Col>
-        <button className="btn btn-primary">Submit</button>
+        <button className="btn btn-primary" onClick={()=>handleSave()}>Submit</button>
         </Col>
       </Row>
     </Container>
@@ -139,13 +192,13 @@ const handleUpdate = (StudentID) => {
             data.map((items, index)=>{
                 return(<tr key = {index}>
            {/* <td>{index +1}</td> */}
-            <td>{items.Name}</td>
-            <td>{items.Surname}</td>
+            <td>{items.name}</td>
+            <td>{items.surname}</td>
             <td>{items.gender}</td>
             <td>{items.dateOfBirth}</td>
             <td>{items.homeAddress}</td>
-            <td>{items.Email}</td>
-            <td>{items.Phone}</td>
+            <td>{items.email}</td>
+            <td>{items.phoneNumber}</td>
             <td colSpan={2}>
                  <button className="btn btn-primary" onClick={()=>handleEdit(items.StudentID)}>Edit</button> &nbsp;
                  <button className="btn btn-danger" onClick={()=>handleDelete(items.StudentID)}>Delete</button>
